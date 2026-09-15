@@ -1,4 +1,13 @@
+# Virtual environments
 venv/
+venv313/
+
+# Python cache
 __pycache__/
 *.py[cod]
+
+# Jupyter temporary files
 .ipynb_checkpoints/
+
+# Local data files
+*.csv*.npy 
